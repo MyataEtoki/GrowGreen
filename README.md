@@ -1,2 +1,0 @@
-# GrowGreen
-Website for plantlords
